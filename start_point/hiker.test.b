@@ -3,7 +3,7 @@ GET "hiker.b"
 GET "libhdr"
 
 LET assert.int.equal(expected,actual,message) BE
-{   IF expected NE actual DO
+{   IF expected ~= actual DO
     {
         LET brk = 2
         writef("assert.int.equal FAILED: %s*N", message)
