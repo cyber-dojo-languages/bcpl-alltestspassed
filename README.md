@@ -1,4 +1,3 @@
-
 [![CircleCI](https://circleci.com/gh/cyber-dojo-languages/bcpl-alltestspassed.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/bcpl-alltestspassed)
 
 ## display_name="BCPL, all_tests_passed"
